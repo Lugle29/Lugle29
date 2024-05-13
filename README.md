@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lugle29
-- 👀 I’m interested in statistical analysis, particularly Computational Neuroscience
+- 👀 I’m interested in Computational Neuroscience, Neuroimaging, Perception Modelling
 - 🌱 I’m currently learning Machine Learning in Python
 - 📫 How to reach me: Luis.Glenzer@uibk.ac.at (company), luis.glenzer@t-online.de (private)
 
